@@ -1,0 +1,14 @@
+app:
+  env: 'local'
+  port: 5000
+  app_name: 'gin-app'
+  app_url: 'http://localhost'
+
+log:
+  level: 'info'
+  root_dir: 'storage/logs'
+  filename: 'app.log'
+  max_backups: 3
+  max_size: 500
+  max_age: 28
+  compress: true

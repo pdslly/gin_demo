@@ -1,0 +1,11 @@
+{"level":"local.info","ts":"2023-02-10 16:37:22.329","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-10 16:39:13.671","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-10 16:39:33.017","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-10 16:41:26.191","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-10 16:42:08.587","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-10 16:44:20.168","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-10 16:46:00.697","msg":"http server started"}
+{"level":"production.info","ts":"2023-02-10 16:47:08.513","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-13 08:56:13.480","msg":"http server started"}
+{"level":"local.info","ts":"2023-02-13 08:56:37.711","msg":"/","status":304,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","errors":"","cost":0.0119678}
+{"level":"local.info","ts":"2023-02-13 08:56:37.865","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","errors":"","cost":0.000689}
